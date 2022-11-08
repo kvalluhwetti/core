@@ -15,7 +15,7 @@ turn_on:
       selector:
         number:
           min: 0
-          max: 300
+          max: 6553
           unit_of_measurement: seconds
     rgb_color:
       name: Color
